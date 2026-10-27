@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "xiao") (type "KiCad") (uri "${KIPRJMOD}/lib/seeedstudio-xiao") (options "") (descr ""))
+	(lib (name "sparkfun-switch") (type "KiCad") (uri "${KIPRJMOD}/lib/sparkfun/footprints/SparkFun-Switch.pretty") (options "") (descr ""))
+)
